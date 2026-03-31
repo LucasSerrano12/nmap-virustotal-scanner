@@ -23,7 +23,7 @@ Ingresá una IP o rango cuando te lo pida:
 ![IP maliciosa](screenshots/ip_maliciosa.png)
 
 ## IP limpia (Google DNS)
-![IP limpia](screenshots/8_8_8_8.png)
+![IP limpia](screenshots/8.8.8.8.png)
 
 ## Tecnologías usadas
 
